@@ -1,0 +1,103 @@
+:root {
+  --primary-color: #1fbdcb;
+  --primary-bg-color: #dbeef2;
+  --secondary-bg-color: #eff4f8;
+  --primary-text-color: hsl(0, 0%, 5%);
+  --secondary-text-color: #0c3f7a;
+}
+.primary-color {
+  color: var(--primary-color);
+}
+.primary-text-color {
+  color: var(--primary-text-color);
+}
+.secondary-text-color {
+  color: var(--secondary-text-color);
+}
+.selected-bg-color {
+  background-color: var(--primary-color);
+}
+.primary-bg-color {
+  background-color: var(--primary-bg-color);
+}
+.secondary-bg-color {
+  background-color: var(--secondary-bg-color);
+}
+.text-center {
+  text-align: center;
+}
+.text-right {
+  text-align: right;
+}
+.c-pointer {
+  cursor: pointer;
+}
+.m-0 {
+  margin: 0;
+}
+.mt-n1 {
+  margin-top: -4px;
+}
+.p-0 {
+  padding: 0;
+}
+.px-5 {
+  padding-inline: 20px;
+}
+.py-5 {
+  padding-block: 20px;
+}
+.mx-5 {
+  margin-inline: 20px;
+}
+.f-14 {
+  font-size: 14px;
+}
+.f-11 {
+  font-size: 11px;
+}
+.f-w-7 {
+  font-weight: 700;
+}
+.f-w-5 {
+  font-weight: 500;
+}
+.f-w-6 {
+  font-weight: 600;
+}
+.o-7 {
+  opacity: 0.7;
+}
+.green {
+  background-color: rgb(129, 232, 129);
+}
+.red {
+  background-color: rgb(232, 119, 119);
+}
+.blue {
+  background-color: rgb(123, 123, 217);
+}
+.orange {
+  background-color: rgb(213, 233, 87);
+}
+.pink {
+  background-color: rgb(92, 126, 156);
+}
+.yellow {
+  background-color: rgb(99, 213, 189);
+}
+.brown {
+  background-color: #7baadf;
+}
+.violet {
+  background-color: azure;
+}
+.white-t-color {
+  color: white;
+}
+.footer-bg-color{
+  background-color: #091734;
+}
+.pt-5{
+  padding-top: 20px;
+}
